@@ -138,7 +138,7 @@ const educationInfo = {
     // },
     {
       schoolName: "Uttaranchal University",
-      logo: require(".https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXzfPa6G_N4lxVSnfSlpb4XsJ7o3Wh_uRqg&s"),
+      logo: require("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGXzfPa6G_N4lxVSnfSlpb4XsJ7o3Wh_uRqg&s"),
       subHeader: "Bachelor of Technology in Computer Science",
       duration: "August 2023 - June 2027",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
