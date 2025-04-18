@@ -207,7 +207,7 @@ const workExperiences = {
         "Learned key principles of safety-critical systems, sensor data handling, and real-time software design",
         "Received a certificate for successful participation in the hackathon event"
       ],
-      certificateLink: "https://raw.githubusercontent.com/MukulParasar/certificates/5e3b72f37e1da0237e1f04fa1c791edf54519ecf/CertificateHackathon.jpeg"
+      certificateLink: "https://raw.githubusercontent.com/MukulParasar/developerFolio/a2074b39788adb2fcf274db3115e766b8a34369f/CertificateHackathon.jpeg"
     }
   ]
 };
